@@ -1,4 +1,4 @@
-#Roach Haus style 😉 #[TuringType](http://oxism.com/TuringType)
+#Roach Haus style 😉 #[TuringType]()
 #### A naïve human typing simulation effect
 [Dan Motzenbecker](http://oxism.com), MIT License
 
