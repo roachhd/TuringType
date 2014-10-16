@@ -1,4 +1,8 @@
-#Roach Haus style 😉 #[TuringType]()
+#Roach Haus style 😉 
+#[TuringType](http://roachhd.github.io/TuringType)
+
+Ridgy didge is below
+
 #### A naïve human typing simulation effect
 [Dan Motzenbecker](http://oxism.com), MIT License
 
