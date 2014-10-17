@@ -76,6 +76,13 @@ I am a naïve simulation of a human typing. I was written in a few minutes (and 
 Notice that I occasionally make mistakes. Please excuse me, and note that you can easily change my typing accuracy level and speed.\n\
 Watch this...";
 
+           var cb1 = function(){
+            setTimeout(function(){
+                el.value = '';
+                new TuringType(el, corpus2);
+            }, 2000);
+        }
+
         var el = document.getElementById('test');
         new TuringType(el, corpus1, { callback: cb1 });
     </script>
